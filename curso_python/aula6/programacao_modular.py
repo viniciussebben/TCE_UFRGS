@@ -1,0 +1,1 @@
+Dividir as funções do programa procedural em vários arquivos com extensão .py de acordo com a finalidade da função.
